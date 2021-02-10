@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "732870451111",
+    "project_id": "trabfinal-dispmoveis",
+    "storage_bucket": "trabfinal-dispmoveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732870451111:android:a6584e6c1b49c3d3d72082",
+        "android_client_info": {
+          "package_name": "com.example.consultacep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732870451111-i4jn1b28nd4q616pt5vnon00i8001vdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpzo-Cvzc71VvUB3AE7InAya_0NnGozZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732870451111-i4jn1b28nd4q616pt5vnon00i8001vdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732870451111:android:c2686a04a9494911d72082",
+        "android_client_info": {
+          "package_name": "com.example.viacep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732870451111-i4jn1b28nd4q616pt5vnon00i8001vdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpzo-Cvzc71VvUB3AE7InAya_0NnGozZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732870451111-i4jn1b28nd4q616pt5vnon00i8001vdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
